@@ -24,6 +24,5 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-@import 'styles/variables';
 @import 'styles/main';
 </style>
